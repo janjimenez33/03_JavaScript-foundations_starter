@@ -5,3 +5,15 @@
     
     Repeat the above steps but try using a const variable. Comment this new part of code and explain what is happening.
 */
+
+let moo;
+
+moo = "Moo!";
+
+console.log(moo);
+
+// const mooConst;
+
+// mooConst = "Moo!";
+
+// console.log(mooConst);
